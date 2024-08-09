@@ -250,7 +250,7 @@ logo=("""\033[1;97m
  {~} FREE       :     PERSONAL
  {~} Github     :    MALIK-XD
  {~} whatsapp   :    0335 6372123
- {~} Version    :    0.2
+ {~} Version    :    0.7
 \033[1;37m ----------------------------------------------""")   
 
 def line():
